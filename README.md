@@ -171,7 +171,8 @@ npm run build
 
 ## 📸 **Screenshots (Describe your visuals here)**
 
-*(Add hero image, collection section, or watch layouts if needed)*
+<img width="1905" height="5271" alt="localhost_5175_ (2)" src="https://github.com/user-attachments/assets/f1a12c37-4749-46de-a47e-2d98e52066ec" />
+
 
 ---
 
@@ -197,4 +198,5 @@ Full Stack Developer
 ---
 
 ### ⭐ If you use this README, consider giving the project a star!
-<img width="1911" height="486" alt="Screenshot 2025-12-04 104809" src="https://github.com/user-attachments/assets/383c5483-19ad-46fd-9c5b-a225be44c3f6" />
+
+
